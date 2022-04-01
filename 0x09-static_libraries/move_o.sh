@@ -1,1 +1,2 @@
-kwenyu
+#!/bin/bash
+mv *.o ..
