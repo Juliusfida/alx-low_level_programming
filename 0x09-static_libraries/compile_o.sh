@@ -1,1 +1,2 @@
-alaar
+#!/bin/bash
+gcc -c *.c
